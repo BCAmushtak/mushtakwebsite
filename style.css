@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    text-decoration: none;
+background-color: brown;
+border-radius: 22px;
+padding: 12px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+
+}
+.navbar li a{
+    text-decoration: none;
+padding:15px;
+margin: 12px;
+color: black;
+
+}
+.navbar a:hover{
+    color: pink;
+}
+table{
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    margin: 22px;
+    width: 100%;
+    height: 50%;
+}
+table td{
+    padding: 22px;
+}
+section{
+    background-color: pink;
+    height: 99%;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    height: 60%;
+}
+h2{
+    text-align:  center;
+}
+.add{
+    width: 88%;
+}
+footer{
+    padding: 37px;
+    text-align: center;
+    color: aquamarine;
+    text-decoration: none;
+}
+footer a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 46px;
+}
